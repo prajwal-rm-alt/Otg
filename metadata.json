@@ -1,0 +1,6 @@
+{
+  "name": "Morphy Richards Culinary OS",
+  "description": "Recipe guide and companion for Morphy Richards 29L OTG, 60L RCSS OTG, and 5L Air Fryer featuring 100+ verified recipes, defrost/dehydrate visual guides, and rotisserie masters.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
